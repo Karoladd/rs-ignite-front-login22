@@ -6,7 +6,7 @@ Trabalhar melhor com Figma
 
 Aula 1 - Estrutura visual do Design System
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ae378d47-2af6-4192-9f5a-38456769c6d9/Untitled.png)
+![image](https://user-images.githubusercontent.com/61714418/195918449-c323544c-28fc-4b84-bd11-4cd6794b9058.png)
 
 Design System: Padrão para seguir de design para o código
 
@@ -40,21 +40,17 @@ Palavra chave Figma
 
 **Aula 02 | Do Figma ao React, criando aplicação**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d9336e7f-8a96-4459-b2ff-8ba169d4ebeb/Untitled.png)
+![image](https://user-images.githubusercontent.com/61714418/195918520-2df73335-4abc-4225-bc60-b5e283225759.png)
 
 [Getting Started | Vite (vitejs.dev)](https://vitejs.dev/guide/)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/05f4acb7-3c1f-4595-91ac-5c7d826aaccc/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/b78ed832-4af1-4eb9-b4b5-fd2467243bac/Untitled.png)
 
 npm install -D tailwindcss postcss autoprefixer
 
 npx tailwindcss init -p
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ac10eaaa-ab8b-48f6-9b2e-c2c5d006764d/Untitled.png)
-
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/25e4d4f5-1ef7-45c7-ae98-a75d67fc3fa2/Untitled.png)
+![image](https://user-images.githubusercontent.com/61714418/195918768-09d97efc-00c0-42c7-b264-92137e383318.png)
+![image](https://user-images.githubusercontent.com/61714418/195918796-604748b9-580d-47be-a6ac-ac2748884b0c.png)
+![image](https://user-images.githubusercontent.com/61714418/195918833-37507ff8-2df0-4472-9fb3-830e29f9c3bf.png)
 
 [Inter - Google Fonts](https://fonts.google.com/specimen/Inter?query=Inter#styles)
 
@@ -74,13 +70,15 @@ npm install @radix-ui/react-checkbox
 
 **Aula 03 | Testando e automatizando**
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/9f458e9b-be0e-494a-9c9b-59891f3e7009/Untitled.png)
+![image](https://user-images.githubusercontent.com/61714418/195919026-59c86e64-73e9-498c-9852-8162d039209b.png)
+
 
 npm i @storybook/storybook-deployer
 
 npm run build-storybook
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/ff2104a4-5992-483a-aa3e-b3298578d677/Untitled.png)
+![image](https://user-images.githubusercontent.com/61714418/195919054-bcd78615-f2cd-4f3b-92e7-76061bdcd1ce.png)
+
 
 npm install @storybook/addon-a11y
 
